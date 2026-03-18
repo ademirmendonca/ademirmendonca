@@ -36,8 +36,8 @@ Engenheiro de Dados com mais de 15 anos de experiência em TI, atuando com solu�
 
 ## 📊 GitHub Stats
 <div>
-<a href="https://github.com/ademirmendonca">
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademirmendonca&layout=compact&langs_count=7&theme=dracula"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=ademirmendonca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
+  <a href="https://github.com/ademirmendonca">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademirmendonca&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ademirmendonca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
