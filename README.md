@@ -1,7 +1,7 @@
 ## 👋 Olá, sou Ademir Mendonça!
 
 ## 🚀 Sobre mim
-Engenheiro de Dados com mais de 15 anos de experiência em TI, atuando com soluções em Cloud (AWS e Databricks) e construção de pipelines de dados escaláveis, eficientes e orientados a negócio.
+Engenheiro de Dados com mais de 15 anos de experiência em TI, atuando com soluções em Cloud (AWS e Databricks) e construção de pipelines de dados escaláveis e eficientes.
 
 - 🎲 Experiência em migração de dados em larga escala  
 - 🏆 Formação em Engenharia de Dados pela Data Science Academy  
@@ -14,15 +14,19 @@ Engenheiro de Dados com mais de 15 anos de experiência em TI, atuando com solu�
 - **Ferramentas:** GitHub, CI/CD  
 
 ## 🛠️ Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30"/> Python  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="30"/> Spark  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Git  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="30"/> SQL  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30"/> Linux  
+</div>
 
 ## ☁️ Cloud
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40"/>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/> AWS  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="30"/> Azure  
+</div>
 
 ## 📫 Contato
 <div>
