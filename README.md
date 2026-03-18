@@ -14,32 +14,18 @@ Engenheiro de Dados com mais de 15 anos de experiência em TI, atuando com solu�
 - **Ferramentas:** GitHub, CI/CD  
 
 ## 🛠️ Ferramentas e Tecnologias
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="24"/><br>Python
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="24"/><br>Spark
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24"/><br>Git
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="24"/><br>SQL
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="24"/><br>Linux
-  </div>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30"/> Python  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="30"/> Spark  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Git  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="30"/> SQL  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30"/> Linux  
 </div>
 
 ## ☁️ Cloud
-<div style="display: flex; gap: 20px;">
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30"/><br>AWS
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="24"/><br>Azure
-  </div>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/> AWS  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="30"/> Azure  
 </div>
 
 ## 📫 Contato
