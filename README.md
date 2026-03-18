@@ -27,11 +27,10 @@ Engenheiro de Dados com mais de 15 anos de experiência em TI, atuando com solu�
 ## 📫 Contato
 <div>
 <a href="https://www.linkedin.com/in/ademirmendonca" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:ademir_mendonca@hotmail.com">
-<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22"/>
+</a> LinkedIn: https://www.linkedin.com/in/ademirmendonca  
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="22"/> Email: ademir_mendonca@hotmail.com
 </div>
 
 ## 📊 GitHub Stats
