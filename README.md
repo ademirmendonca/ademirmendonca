@@ -3,8 +3,9 @@
 ## 🚀 Sobre mim
 Engenheiro de Dados com mais de 15 anos de experiência em TI, atuando com soluções em Cloud (AWS e Databricks) e construção de pipelines de dados escaláveis e eficientes.
 
-- 🎲 Experiência em migração de dados em larga escala  
-- 🏆 Formação em Engenharia de Dados pela Data Science Academy  
+- 🎲 Experiência em migração de dados em larga escal
+- 🎓 Análise e Desenvolvimento de Sistemas - Faculdade Drummond
+- 🏆 Formação em Engenharia de Dados - Data Science Academy  
 
 ## 🧰 Tech Stack
 - **Cloud:** AWS (S3, EMR, EC2, Glue, Athena, Lambda, CloudWatch, Secrets Manager)  
